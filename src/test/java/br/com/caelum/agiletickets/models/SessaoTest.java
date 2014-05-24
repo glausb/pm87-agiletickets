@@ -16,13 +16,13 @@ public class SessaoTest {
 		sessao = new Sessao();
 	}
 	
-	@After
+	//@After
 	// Roda após os testes
 	
-	@BeforeClass
+	//@BeforeClass
 	// Roda antes de classe
 	
-	@AfterClass
+	//@AfterClass
 	// Roda após a classe
 	
 	@Test
